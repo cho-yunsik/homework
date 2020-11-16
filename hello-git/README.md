@@ -1,3 +1,5 @@
 // README.md
 This is the README file for the Hello-world project.
-For 3rd Commit
+<<<<<<< HEAD
+For 2nd and 3rd Commit
+
